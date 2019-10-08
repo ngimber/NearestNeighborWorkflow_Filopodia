@@ -8,9 +8,9 @@ Instructions
 Prerequisites are: 
 - List of Filopodia Coordinates (tab delimited columns: Name	X	Y	Channel	Frame), coordinates as µm
 - List of PRG2 spots (tab delimited columns: Name	X	Y	Frame)
-- binary masks (tif format, black background) 
+- binary masks (tif format, black background)  
 
-\n
-Further information is provided in the methods section of Brosig and Fuchs et al. 2019.
-\n
+
+Further information is provided in the methods section of Brosig and Fuchs et al. 2019.  
+
 See also the provided examples (https://github.com/ngimber/NearestNeighborWorkflow_Filopodia/raw/master/mask_example.tif)
