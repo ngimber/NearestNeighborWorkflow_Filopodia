@@ -10,5 +10,7 @@ Prerequisites are:
 - List of PRG2 spots (tab delimited columns: Name	X	Y	Frame)
 - binary masks (tif format, black background) 
 
+\n
 Further information is provided in the methods section of Brosig and Fuchs et al. 2019.
+\n
 See also the provided examples (https://github.com/ngimber/NearestNeighborWorkflow_Filopodia/raw/master/mask_example.tif)
