@@ -5,4 +5,4 @@ This Jupyter Notebook was used to calculate Nearest Neighbor Distances from hand
 - List of PRG2 spots (tab delimited columns: Name	X	Y	Frame)
 - binary masks (tif format, black background) 
 
-See also the provided examples 
+See also the provided examples. Further information is provided in the methods section of Brosig and Fuchs et al. 2019.
