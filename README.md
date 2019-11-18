@@ -11,6 +11,9 @@ Prerequisites are:
 - binary masks (tif format, black background)  
 
   
-Further information is provided in the methods section of Brosig and Fuchs et al. 2019.  
+Further information is provided in the methods section of Brosig and Fuchs et al. 2019.
+https://doi.org/10.1016/j.celrep.2019.10.039
+
+
 
 See also the provided examples (https://github.com/ngimber/NearestNeighborWorkflow_Filopodia/raw/master/mask_example.tif)
